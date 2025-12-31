@@ -1,2 +1,15 @@
 # sales-analysis-excel-project
-A beginner - friendly using Excel sales analysis project using formulas , pivot tables and charts . Includes total sales calculation , region-wise and product wise analysis using pivot table and data visualization using a column chart.
+## Overview
+This project analyzes a sample sales dataset using Microsoft Excel. It includes:
+- Total Sales calculation
+- Region-wise and Product-wise sales analysis using Pivot Tables
+- Data visualization using Pivot Charts
+
+## Skills Used
+- Excel formulas (multiplication)
+- Pivot Tables
+- Pivot Charts
+- Data formatting
+
+## Files
+- Sales_Analysis_Excel_Project.xlsx
